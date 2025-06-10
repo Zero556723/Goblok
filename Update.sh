@@ -37,7 +37,9 @@ while true; do
         bash Thonxyzz404.sh
         exit 0
       else
+        echo ""
         echo -e "${red}File Tidak Ditemukan..!!"
+        echo ""
         exit 1
       fi
     else
