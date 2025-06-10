@@ -93,6 +93,7 @@ while true; do
   else
     echo ""
     echo -e "${yellow}Hanya Khusus Di Termux Saja...!!"
+    echo ""
     sleep 5
     exit 0
   fi
