@@ -18,7 +18,6 @@ bash Update.sh
 
 ## Untuk menjalankan ulang ketik perintah.
 
-```bash
 ls
 cd Goblok 
 bash Thonxyzz404.sh
