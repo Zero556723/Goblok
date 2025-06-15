@@ -11,6 +11,8 @@ Repository ini berisi koleksi alat dan skrip untuk Termux.
 Untuk mengupgrade Toolsv8.
 
 ```bash
+pkg install zip
+pkg install unzip
 pkg install tree 
 git clone https://github.com/Zero556723/Goblok
 cd Goblok 
