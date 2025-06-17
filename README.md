@@ -14,7 +14,7 @@ Untuk mengupgrade Toolsv8.
 pkg install zip
 pkg install unzip
 pkg install tree 
-git clone https://github.com/Zero556723/Goblok
+git clone --depth 32 https://github.com/Zero556723/Goblok
 cd Goblok 
 bash Update.sh
 
