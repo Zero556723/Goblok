@@ -4,7 +4,7 @@ Repository ini berisi koleksi alat dan skrip untuk Termux.
 
 ## Screenshot
 
-![Screenshot Termux](IMG-20250209-WA0000.jpg)
+![Screenshot Termux](Toolsv8.jpg)
 
 ## Instalasi 
 
@@ -17,10 +17,7 @@ gem install lolcat
 pkg install tree 
 git clone --depth 32 https://github.com/Zero556723/Goblok
 cd Goblok 
-bash Update.sh
+bash Decode_Peleer.sh
 
-## Untuk menjalankan ulang ketik perintah.
-
-ls
-cd Goblok 
-bash Thonxyzz404.sh
+## Kalau Mau langsung Aja Buy Ke
+: t.me/Thonxyzz404 # Telegram 
