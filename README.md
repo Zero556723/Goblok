@@ -11,6 +11,7 @@ Repository ini berisi koleksi alat dan skrip untuk Termux.
 Untuk mengupgrade Toolsv8.
 
 ```bash
+rm -rf Goblok
 pkg install zip
 pkg install unzip
 gem install lolcat
