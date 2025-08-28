@@ -4,7 +4,7 @@ Repository ini berisi koleksi alat dan skrip untuk Termux.
 
 ## Screenshot
 
-![Screenshot Termux](Toolsv8.jpg)
+![Screenshot Termux](V8.jpg)
 
 ## Instalasi 
 
