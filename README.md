@@ -12,6 +12,7 @@ Untuk mengupgrade Toolsv8.
 
 ```bash
 rm -rf Goblok
+rm /data/data/com.termux/files/home/.otentikasi
 pkg install zip
 pkg install unzip
 gem install lolcat
