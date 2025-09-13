@@ -15,6 +15,7 @@ rm -rf Goblok
 rm /data/data/com.termux/files/home/.otentikasi
 pkg install zip
 pkg install unzip
+pkg install ruby
 gem install lolcat
 pkg install tree 
 git clone --depth 32 https://github.com/Zero556723/Goblok
