@@ -13,6 +13,8 @@ Untuk mengupgrade Toolsv8.
 ```bash
 rm -rf Goblok
 pembersih.txt
+pkg update && pkg upgrade
+pkg install git 
 pkg install zip
 pkg install unzip
 pkg install ruby
