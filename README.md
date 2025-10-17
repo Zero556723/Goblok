@@ -12,7 +12,7 @@ Untuk mengupgrade Toolsv8.
 
 ```bash
 rm -rf Goblok
-rm /data/data/com.termux/files/home/.otentikasi
+pembersih.txt
 pkg install zip
 pkg install unzip
 pkg install ruby
@@ -24,4 +24,4 @@ cd Goblok
 bash Decode_Peleer.sh
 
 ## Kalau Mau langsung Aja Buy Ke:
-t.me/Thonxyzz404  # Telegram 
+t.me/Kenzzzzzzzzzzzzzzzz870  # Telegram 
