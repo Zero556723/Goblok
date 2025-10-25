@@ -12,6 +12,7 @@ Untuk mengupgrade Toolsv8.
 
 ```bash
 rm -rf Goblok
+rm -rf pkg_checked.txt
 pembersih.txt
 pkg update && pkg upgrade
 pkg install git 
