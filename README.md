@@ -24,7 +24,7 @@ gem install lolcat
 pkg install tree 
 git clone --depth 32 https://github.com/Zero556723/Goblok
 cd Goblok 
-# Thonxyzz404
+bash Install.sh
 
 ## Kalau Mau langsung Aja Buy Ke:
 t.me/Kenzzzzzzzzzzzzzzzz870  # Telegram 
