@@ -4,7 +4,7 @@ Repository ini berisi koleksi alat dan skrip untuk Termux.
 
 ## Screenshot
 
-![Screenshot Termux](Gambar.jpg)
+![Screenshot Termux](Apa_Kontol.jpg)
 
 ## Instalasi 
 
